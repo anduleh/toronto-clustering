@@ -154,4 +154,6 @@ toronto
 
 
 
+Since Github does not render folium maps natively, I am including a picture and link to [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/anduleh/toronto_clustering/blob/master/toronto_clustering.ipynb) here for clarity.
 
+<img src="./clusters.png">
