@@ -2,10 +2,8 @@
 
 In this notebook, I will explore and cluster the neighbourhoods of Toronto by web-scraping postal codes, building an appropriate dataframe, then visualizing our data.
 
+![](./toronto_satellite.gif){ width=100% }
 
-<p align="center">
-  <img src="./toronto_satellite.gif" style="margin: auto">
-</p>
 
 ## Section 1: Data collection
 In this section, I will scrape the postal codes of Canada off the relevant wikipedia page and put the results in a dataframe. After a little bit of data cleaning, it will be merged with lat and lon coordinates for visualization purposes later.
