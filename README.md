@@ -4,7 +4,7 @@ In this notebook, I will explore and cluster the neighbourhoods of Toronto by we
 
 
 <p align="center">
-  <img src="./toronto_satellite.gif">
+  <img src="./toronto_satellite.gif" style="margin: auto">
 </p>
 
 ## Section 1: Data collection
