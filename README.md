@@ -146,4 +146,6 @@ for lat, lon, borough, cluster in zip(df['Latitude'], df['Longitude'], df['Borou
 
 toronto
 ```
-<img src="./clusters.png" style="text-align: center">
+<p align="center">
+<img src="./clusters.png" >
+    </p>
