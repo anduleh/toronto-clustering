@@ -1,4 +1,4 @@
-# Segmenting and Clustering Neighborhoods in Toronto
+# Segmenting and Clustering Neighborhoods in Toronto 🍁
 
 In this notebook, I will explore and cluster the neighbourhoods of Toronto by web-scraping postal codes, building an appropriate dataframe, then visualizing our data.
 
